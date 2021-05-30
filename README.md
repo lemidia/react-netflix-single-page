@@ -1,3 +1,33 @@
+## react-netflix-single-page-clone using React.js and tmdb movie api data
+
+![Alt text](/images/pic1.png)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## 적용된 기술
+
+- tmdb movie data (api)
+- Material UI
+- Axios (for data fetching)
+- react-youtube (for youtube video embedding)
+
+## How to Run
+
+1. Terminal을 열고 `npm install` 명령으로 dependency(의존성)를 설치합니다. (사전에 node.js가 설치되어 있어야 한다.)
+
+2. /src 폴더 밑에 keys.js 파일을 만들고, 자신의 tmdb api_key를 아래의 <YOUR_API_KEY_HERE> 에 기입합니다.
+
+```javascript
+// keys.js
+const API_KEY = "<YOUR_API_KEY_HERE>";
+
+export default API_KEY;
+```
+
+3. Local에서 실행하기 위해 Terminal에 `npm start`를 입력합니다.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
