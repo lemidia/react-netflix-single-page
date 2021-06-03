@@ -1,4 +1,4 @@
-## react-netflix-single-page-clone using React.js and tmdb movie api data
+## react-netflix-single-page using React.js and tmdb movie api data
 
 ![Alt text](/images/pic1.png)
 
