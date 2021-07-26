@@ -2,6 +2,10 @@
 
 ![Alt text](/images/pic1.png)
 
+## Demo 
+
+https://netflix-lemidia.firebaseapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## 적용된 기술
